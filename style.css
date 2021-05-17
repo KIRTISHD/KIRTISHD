@@ -1,0 +1,10 @@
+.heading {
+    text-align:center;
+}
+.about-myself{
+    text-align:center;
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+}
