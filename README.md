@@ -6,7 +6,6 @@
 #### I'm a Software Developer, Fullstack Developer
 
 </div>
-<br />
 <hr width="100%" style="height:5px;">
 <div align="center">
 
@@ -17,7 +16,6 @@
 📫 How to reach me: aniket[dot]dhande[@]gmail[dot]com 
 
 </div>
-<br />
 <hr width="100%" style="height:5px;">
 <div align="center">
 
@@ -32,7 +30,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50" height="50" title="MongoDB" alt="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
-<br />
 <hr width="100%" style="height:5px;">
 <div align="center">
   
@@ -45,7 +42,6 @@
 <img src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png" width="50" height="50" title="SQL Server" alt="SQL Server">&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
-<br />
 <hr width="100%" style="height:5px;">
 <div align="center">
 
@@ -56,7 +52,6 @@
 
 
 </div>
-<br />
 <hr width="100%" style="height:5px;">
 
 ### Github Status
