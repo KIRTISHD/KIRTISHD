@@ -34,7 +34,7 @@
 <div align="center">
   
 ### Tools/Software
-<img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-120px-plus.png#gh-light-mode-only" width="50" height="50" title="Github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-120px-plus.png#gh-light-mode-only" width="50" height="50" title="Github" alt="Github">
 <img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-Light-120px-plus.png#gh-dark-mode-only" width="50" height="50" title="Github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="50" height="50" title="Linux" alt="Linux">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" title="Visual Studio Code" alt="Visual Studio Code">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,8 +47,8 @@
 <div align="center">
 
 ### Contact
-<a href="https://github.com/kirtishd" target="blank"><img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-120px-plus.png#gh-light-mode-only" width="50" height="50" title="Github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-Light-120px-plus.png#gh-dark-mode-only" width="50" height="50" title="Github" alt="Github">&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/kirtishd#gh-light-mode-only" target="blank"><img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-120px-plus.png#gh-light-mode-only" width="50" height="50" title="Github" alt="Github"></a>
+ <a href="https://github.com/kirtishd#gh-dark-mode-only" target="blank"><img src="https://github.com/KIRTISHD/KIRTISHD/blob/main/GitHub-Mark-Light-120px-plus.png#gh-dark-mode-only" width="50" height="50" title="Github" alt="Github"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kirtishdhande" target="blank"><img src="https://img.icons8.com/officel/80/000000/linkedin.png" width="50" height="50" title="Linkedin" alt="Linkedin"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.quora.com/profile/Kirtish-Dhande" target="blank"><img src="https://img.icons8.com/windows/128/000000/quora.png" width="50" height="50" title="Quora" alt="Quora"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
